@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/poiu"><img src="https://api.daily.dev/devcards/d9cfda84095647a8b9a89027624ba879.png?r=rno" width="400" alt="Kawano Kenichi's Dev Card"/></a>
 
 <!--
 **k-rf/k-rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
