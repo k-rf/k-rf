@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/k_rf"><img src="https://github.com/k-rf/k-rf/blob/main/devcard.svg" width="200" alt="Kawano Kenichi's Dev Card"/></a>
+<a href="https://app.daily.dev/k_rf"><img src="https://github.com/k-rf/k-rf/blob/main/devcard.png" width="200" alt="Kawano Kenichi's Dev Card"/></a>
 
 <!--
 **k-rf/k-rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
